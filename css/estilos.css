@@ -36,3 +36,10 @@ body{
 #post{
     padding: 1em;
 }
+#footer{
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background: #1c3643;
+    display: block;
+}
